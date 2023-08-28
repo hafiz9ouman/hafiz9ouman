@@ -21,4 +21,4 @@ As a skilled Full Stack Laravel Developer, I specialize in crafting cutting-edge
 
 Elevate your projects with a Full Stack Laravel Developer. Let's collaborate to bring your vision to life. Contact me now to get started!
 
-[![Email Me](https://img.shields.io/badge/Email-Me-D14836?logo=gmail)](mailto:hafiz9oman.dev@gmail.com)     [![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?logo=whatsapp)](https://wa.me/923184195196)     [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://linkedin.com/in/hafiz-nouman)     [![GitHub](https://img.shields.io/badge/GitHub-brown?logo=github)](https://github.com/hafiz9ouman)
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?logo=gmail)](mailto:hafiz9oman.dev@gmail.com)     [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp)](https://wa.me/923184195196)     [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://linkedin.com/in/hafiz-nouman)     [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hafiz9ouman)
