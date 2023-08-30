@@ -7,7 +7,7 @@ As a skilled Full Stack Laravel Developer, I specialize in crafting cutting-edge
 - **Laravel Development**: Creating robust web applications using Laravel framework.
 - **PHP & JavaScript**: Building dynamic and interactive features with PHP and JavaScript.
 - **Front-end Expertise**: Crafting modern, responsive user interfaces using jQuery and Bootstrap.
-- **API Development**: Building seamless communication between applications with RESTful APIs.
+- **API Development**: Building seamless communication between applications with RESTful API.
 - **Payment Integration**: Integrating secure payment gateways for seamless transactions.
 - **Third-Party Services**: Enhancing application functionality with third-party service integration.
 - **Performance Optimization**: Optimizing websites for speed and enhanced user experience.
