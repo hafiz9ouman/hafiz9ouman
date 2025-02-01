@@ -1,5 +1,24 @@
-# 💫 About Me:
-🛠️ I’m currently working on: AI chatbot integration, AWS deployment, and full-stack Laravel/Node.js projects.<br>👥 I’m looking to collaborate on: SaaS, multi-tenant applications, and AI-powered solutions.<br>🤝 I’m looking for help with: Google Vertex AI implementation and AWS scalability.<br>🌱 I’m currently learning: Advanced AWS DevOps and AI model training.<br>💬 Ask me about: Laravel, PHP, JavaScript, API development, and multi-tenancy.<br>⚡ Fun fact: I love coffee & extremely spicy food! 
+🚀 Experienced Full Stack Laravel Developer – Bringing Ideas to Life
+As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.
+
+🎯 My Expertise
+🔹 Laravel Development – Crafting scalable and secure applications with Laravel.
+🔹 PHP & JavaScript – Developing dynamic, high-speed applications with modern frameworks.
+🔹 Front-End Development – Creating responsive and interactive UI using jQuery & Bootstrap.
+🔹 RESTful API Development – Ensuring seamless integration between applications.
+🔹 Payment Gateway Integration – Implementing secure online payment solutions.
+🔹 Third-Party API Integration – Enhancing app functionality with external services.
+🔹 Performance Optimization – Speeding up websites for better UX and SEO.
+🚀 Why Work With Me?
+✅ High-Quality Code – Clean, efficient, and well-documented development practices.
+✅ Security-Focused – Implementing best security practices in web applications.
+✅ Continuous Learning – Staying updated with the latest tech trends.
+✅ Business-Oriented Solutions – Aligning development with your business goals.
+✅ Collaborative Mindset – A valuable team player with a problem-solving approach.
+🤝 Let’s Build Something Amazing!
+If you’re looking for a reliable Laravel Developer to build or optimize your web application, let's connect! 🚀
+
+📩 Contact me now to discuss your project!
 
 
 ## 🌐 Socials:
