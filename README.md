@@ -1,6 +1,6 @@
 # 🚀 Experienced Full Stack Laravel Developer – Bringing Ideas to Life
 
-## As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.<br>
+As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.<br>
 
 ## 🎯 My Expertise<br>
 🔹 Laravel Development – Crafting scalable and secure applications with Laravel.<br>
@@ -22,7 +22,6 @@
 If you’re looking for a reliable Laravel Developer to build or optimize your web application, let's connect! 🚀<br><br>
 
 ## 📩 Contact me now to discuss your project!
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/nomizeadus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nomizeadus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hafiz-nouman/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?logo=whatsapp)](https://wa.me/923484195196) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafiznouman.dev@gmail.com) 
