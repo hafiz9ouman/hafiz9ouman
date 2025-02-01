@@ -1,25 +1,27 @@
 # 🚀 Experienced Full Stack Laravel Developer – Bringing Ideas to Life
 
-## As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.
+## As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.<br>
 
-🎯 My Expertise
-🔹 Laravel Development – Crafting scalable and secure applications with Laravel.
-🔹 PHP & JavaScript – Developing dynamic, high-speed applications with modern frameworks.
-🔹 Front-End Development – Creating responsive and interactive UI using jQuery & Bootstrap.
-🔹 RESTful API Development – Ensuring seamless integration between applications.
-🔹 Payment Gateway Integration – Implementing secure online payment solutions.
-🔹 Third-Party API Integration – Enhancing app functionality with external services.
-🔹 Performance Optimization – Speeding up websites for better UX and SEO.
-🚀 Why Work With Me?
-✅ High-Quality Code – Clean, efficient, and well-documented development practices.
-✅ Security-Focused – Implementing best security practices in web applications.
-✅ Continuous Learning – Staying updated with the latest tech trends.
-✅ Business-Oriented Solutions – Aligning development with your business goals.
-✅ Collaborative Mindset – A valuable team player with a problem-solving approach.
-🤝 Let’s Build Something Amazing!
-If you’re looking for a reliable Laravel Developer to build or optimize your web application, let's connect! 🚀
+##🎯 My Expertise<br>
+🔹 Laravel Development – Crafting scalable and secure applications with Laravel.<br>
+🔹 PHP & JavaScript – Developing dynamic, high-speed applications with modern frameworks.<br>
+🔹 Front-End Development – Creating responsive and interactive UI using jQuery & Bootstrap.<br>
+🔹 RESTful API Development – Ensuring seamless integration between applications.<br>
+🔹 Payment Gateway Integration – Implementing secure online payment solutions.<br>
+🔹 Third-Party API Integration – Enhancing app functionality with external services.<br>
+🔹 Performance Optimization – Speeding up websites for better UX and SEO.<br><br>
 
-📩 Contact me now to discuss your project!
+## 🚀 Why Work With Me?<br>
+✅ High-Quality Code – Clean, efficient, and well-documented development practices.<br>
+✅ Security-Focused – Implementing best security practices in web applications.<br>
+✅ Continuous Learning – Staying updated with the latest tech trends.<br>
+✅ Business-Oriented Solutions – Aligning development with your business goals.<br>
+✅ Collaborative Mindset – A valuable team player with a problem-solving approach.<br><br>
+
+## 🤝 Let’s Build Something Amazing!
+If you’re looking for a reliable Laravel Developer to build or optimize your web application, let's connect! 🚀<br><br>
+
+## 📩 Contact me now to discuss your project!<br><br>
 
 
 ## 🌐 Socials:
