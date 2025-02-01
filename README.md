@@ -2,7 +2,7 @@
 
 ## As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.<br>
 
-##🎯 My Expertise<br>
+## 🎯 My Expertise<br>
 🔹 Laravel Development – Crafting scalable and secure applications with Laravel.<br>
 🔹 PHP & JavaScript – Developing dynamic, high-speed applications with modern frameworks.<br>
 🔹 Front-End Development – Creating responsive and interactive UI using jQuery & Bootstrap.<br>
@@ -21,7 +21,7 @@
 ## 🤝 Let’s Build Something Amazing!
 If you’re looking for a reliable Laravel Developer to build or optimize your web application, let's connect! 🚀<br><br>
 
-## 📩 Contact me now to discuss your project!<br><br>
+## 📩 Contact me now to discuss your project!
 
 
 ## 🌐 Socials:
