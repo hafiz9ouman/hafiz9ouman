@@ -1,5 +1,6 @@
-🚀 Experienced Full Stack Laravel Developer – Bringing Ideas to Life
-As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.
+# 🚀 Experienced Full Stack Laravel Developer – Bringing Ideas to Life
+
+## As a Full Stack Laravel Developer, I specialize in building high-performance web applications using Laravel, PHP, and JavaScript. With a strong focus on scalability, security, and user experience, I turn complex ideas into robust digital solutions.
 
 🎯 My Expertise
 🔹 Laravel Development – Crafting scalable and secure applications with Laravel.
